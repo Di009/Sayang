@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "dimas-bot",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -9,7 +9,7 @@
     "src": "src",
     "plugins": "plugins"
   },
-  "scripts": {
+  "scripts": https://github.com/DafyBotz12/Sayang
     "start": "node index.js",
     "test": "node test.js"
   },
